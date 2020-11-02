@@ -1,0 +1,93 @@
+body{
+    background-image: url(392782.jpg);
+    background-size: cover;
+} 
+div{
+    
+     position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    width: 680;
+    height: 560;
+    background-color:#3B459C;
+
+    border: 6px solid #2F68B7;
+}
+p{
+    line-height: 20px;
+    color: white;
+    text-align:center;
+    font-size: 14px;
+    font-family: sans-serif;
+    
+}
+
+h1{    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    font-size:37px;
+    line-height: 1px;
+    padding-top: 50px;
+}
+
+    
+
+
+.text1{
+     font-weight: bold;
+    color:white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+    margin-left: 15%;
+    padding-right: 300px;
+    background-color: transparent;
+    border-left-color: transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: #2F68B7;
+   
+}
+.text2{
+    font-weight: bold;
+    color:white;
+       padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 15%;
+    padding-right: 300px;
+    background-color: transparent;
+    border-left-color: transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: #2F68B7;
+    
+}
+.text3{
+     font-weight: bold;
+    color:white;
+       padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 15%;
+    padding-right: 300px;
+    background-color: transparent;
+    border-left-color: transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: #2F68B7;
+   
+}
+::placeholder{
+    color: #2F68B7;
+}
+.r{
+    border: 2px solid white;
+   font-weight: bold;
+    color: white;
+    margin-left: 40%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: transparent;
+}
